@@ -74,10 +74,10 @@ header ul li a:hover{
 }
 .banner h2{
 	background-image: url(bg.jpg);
-	color:	#828b00;
+	color:	#FFFFFF;
 	z-index: 1;
 	padding: 20px 20px;
-	border: 8px groove 	#b2db70;
+	border: 8px groove 	#FFFFFF;
 	text-align: center;
 }
 
